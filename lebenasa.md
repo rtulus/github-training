@@ -2,4 +2,4 @@
 
 Hello!
 
-This is the first part of the conflict.
+This is the second part of the conflict. It should be resolved.
